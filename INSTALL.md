@@ -1,4 +1,4 @@
-Building Bitcoin
+Building ShadowCoin
 ================
 
 See doc/build-*.md for instructions on building the various
